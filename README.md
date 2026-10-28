@@ -6,12 +6,14 @@ An automated attraction maintenance plugin for [OpenRCT2](https://openrct2.io) t
 
 ## 🌟 Credits & Acknowledgements
 
-This project is an enhanced and updated fork based on the original **Refurbish Manager** created by **[Ellis Clayton](https://github.com/ellsclytn)**.
+* **Original Author & Plugin:** Created by **[Ellis Clayton](https://github.com/ellsclytn)**.
+  * **Original Repository:** [ellsclytn/openrct2-refurbish-manager](https://github.com/ellsclytn/openrct2-refurbish-manager)
+  * **OpenRCT2 Plugins Listing:** [OpenRCT2 Plugins Catalog](https://openrct2plugins.org/plugin/R_kgDOSpLlVg/openrct2-refurbish-manager)
+  * All credit for the original design, architecture, and core integration goes to Ellis Clayton. This version extends the original with new operational modes, fail-safes, and critical bug fixes.
 
-* **Original Repository:** [ellsclytn/openrct2-refurbish-manager](https://github.com/ellsclytn/openrct2-refurbish-manager)
-* **OpenRCT2 Plugins Listing:** [OpenRCT2 Plugins Catalog](https://openrct2plugins.org/plugin/R_kgDOSpLlVg/openrct2-refurbish-manager)
+* **AI Coding Assistance & Modernization:** Coded & refactored with **Google Gemini 3.8 Flash (High)**.
+  * Full AI pair-programming implementation of the dual-mode pipeline (realistic passenger clearance & instant reset), bug fixes, priority sorting, and fail-safe mechanisms.
 
-All credit for the original design, architecture, and core integration goes to Ellis Clayton. This version extends the original with new operational modes, fail-safes, and critical bug fixes.
 
 ---
 
@@ -131,4 +133,4 @@ npm start
 
 This project is licensed under the [MIT License](./LICENSE).  
 Copyright (c) 2024 Ellis Clayton.  
-Copyright (c) 2026 Enhanced Edition Contributors.
+Copyright (c) 2026 ReaLFoxy & Enhanced Edition Contributors (Coded with Google Gemini 3.8 Flash (High)).
